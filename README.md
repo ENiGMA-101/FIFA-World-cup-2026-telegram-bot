@@ -16,6 +16,7 @@ A Telegram bot that automatically sends FIFA World Cup 2026 match notifications,
 
 ### Match Notifications
 
+![Terminal View](assets/terminal.png)
 ![Match Notification](assets/BotMessage.png)
 
 ---
